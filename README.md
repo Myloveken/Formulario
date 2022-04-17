@@ -1,5 +1,5 @@
 # HTML
 
-## Lista de Exercícios
+## Lista dos Exercícios 
 
 - [Exercício1](exercicio1.html)
